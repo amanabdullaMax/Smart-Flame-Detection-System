@@ -20,3 +20,9 @@ A detailed BOM with component links and prices is included in this repository as
 ![Working Image 2](IMG-20261113-WA0063\(1\).jpg)
 ![Working Image 3](IMG-20261113-WA0064.jpg)
 ![Working Image 4](IMG-20261113-WA0065\(1\).jpg)
+
+
+a little device that detects flames in real-time, instantly triggers a buzzer alarm, activates warning LEDs, and displays status messages on an I2C LCD screen using Arduino.
+
+Smart Flame Detection & Early Warning System
+a little device that detects flames in real-time, instantly triggers a buzzer alarm, activates warning LEDs, and displays status messages on an I2C LCD screen using Arduino.
