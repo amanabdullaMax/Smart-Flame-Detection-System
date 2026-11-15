@@ -1,6 +1,8 @@
 # Smart-Flame-Detection-System
 
 # Smart Flame Detection & Early Warning System
+a little device that detects flames in real-time, instantly triggers a buzzer alarm, activates warning LEDs, and displays status messages on an I2C LCD screen using Arduino.
+
 
 An Arduino-based safety device featuring real-time flame detection, buzzer alerts, visual LED indicators, and an I2C LCD status display.
 
