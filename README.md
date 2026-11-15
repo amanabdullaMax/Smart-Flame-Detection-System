@@ -5,12 +5,13 @@
 An Arduino-based safety device featuring real-time flame detection, buzzer alerts, visual LED indicators, and an I2C LCD status display.
 
 ## Hardware Components
-- Arduino Uno / Nano
-- Flame Sensor
+- Arduino Uno SMD R3
+- Flame Sensor (KY-026)
 - Active Buzzer
-- Green & Red LEDs
-- I2C LCD Display (16x2)
-- 
+- 16x2 LCD Display with I2C
+
+## Bill of Materials (BOM)
+A detailed BOM with component links and prices is included in this repository as `bom.csv`.
 
 ## Project Images / Working Photos
 ![Working Image 1](IMG-20261113-WA0058\(2\).jpg)
